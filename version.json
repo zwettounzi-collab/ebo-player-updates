@@ -1,6 +1,6 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/zwettounzi-collab/ebo-player-updates/releases/download/v1.11/EBO-PLAYER-1.11.apk",
-  "notes": "تحسينات الأداء: فلترة وترتيب القوائم داخل ذاكرة Compose بدل إعادة الحساب عند كل تحديث، عدّادات التصنيفات بحساب واحد، مفاتيح هوية ثابتة لعناصر القوائم والشبكات، إيقاف مؤقت للبث المباشر عند التصفح خارج قسم القنوات مع استئناف فوري، فحص التحديث الصامت بعد أول تحميل للمحتوى، وإزالة تكرار المعرفات الواردة من السيرفر. / Optimisations de performance : filtrage et tri mis en cache, compteurs de catégories calculés une seule fois, clés d'identité stables, pause du flux Live hors section Live, contrôle de mise à jour après le premier chargement, dédoublonnage des identifiants serveur."
+  "versionCode": 13,
+  "versionName": "1.13",
+  "apkUrl": "https://github.com/zwettounzi-collab/ebo-player-updates/releases/download/v1.13/EBO-PLAYER-1.13.apk",
+  "notes": "التحديث الذكي: عند اكتشاف نسخة جديدة يُنزَّل الـAPK تلقائيًا في الخلفية مع شريط تقدم، فيصبح التثبيت بضغطة زر واحدة بلا انتظار تنزيل، مع حماية من إعادة التنزيل المكرر ومن ملف محذوف، والرجوع التلقائي إلى التنزيل الفوري عند الحاجة. / Mise à jour intelligente : téléchargement automatique en arrière-plan dès la détection d'une nouvelle version avec barre de progression, installation en un seul appui, protection contre les téléchargements en double et les fichiers supprimés, repli automatique sur le téléchargement direct si besoin."
 }
