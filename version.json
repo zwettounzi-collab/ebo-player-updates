@@ -1,6 +1,6 @@
 {
-  "versionCode": 13,
-  "versionName": "1.13",
-  "apkUrl": "https://github.com/zwettounzi-collab/ebo-player-updates/releases/download/v1.13/EBO-PLAYER-1.13.apk",
-  "notes": "التحديث الذكي: عند اكتشاف نسخة جديدة يُنزَّل الـAPK تلقائيًا في الخلفية مع شريط تقدم، فيصبح التثبيت بضغطة زر واحدة بلا انتظار تنزيل، مع حماية من إعادة التنزيل المكرر ومن ملف محذوف، والرجوع التلقائي إلى التنزيل الفوري عند الحاجة. / Mise à jour intelligente : téléchargement automatique en arrière-plan dès la détection d'une nouvelle version avec barre de progression, installation en un seul appui, protection contre les téléchargements en double et les fichiers supprimés, repli automatique sur le téléchargement direct si besoin."
+  "versionCode": 14,
+  "versionName": "1.14",
+  "apkUrl": "https://github.com/zwettounzi-collab/ebo-player-updates/releases/download/v1.14/EBO-PLAYER-1.14.apk",
+  "notes": "رابط التحديث مدمج في التطبيق: الفحص التلقائي عند كل إقلاع يعمل من أول تثبيت بلا إدخال يدوي لأي رابط، مع إمكانية التجاوز من الإعدادات. / Lien de mise à jour intégré : la vérification automatique à chaque démarrage fonctionne dès la première installation sans saisie manuelle, avec possibilité de personnalisation dans les paramètres."
 }
