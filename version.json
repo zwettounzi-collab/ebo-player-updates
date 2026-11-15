@@ -1,6 +1,6 @@
 {
-  "versionCode": 11,
-  "versionName": "1.10",
-  "apkUrl": "https://github.com/zwettounzi-collab/ebo-player-updates/releases/download/v1.10/EBO-PLAYER-1.10.apk",
-  "notes": "إصلاحات وظيفية: بث مباشر لا يتوقف عند التنقل أو فتح الدليل مع استعادة وضع التكبير، بلا شريط تحكم أفلام على القنوات المباشرة، تصنيف «المفضلة» يعمل في الأفلام والمسلسلات، زر قلب مباشر لمفضلة القنوات، تصفير البحث عند تغيير القسم، إظهار أخطاء الاتصال على الرئيسية، منع مشغل فارغ للمسلسل بلا حلقات، ملء الشاشة مع مرونة وحدات فك الترميز، ترتيب التصنيفات العربية أولًا، وزر الإعلان التشويقي. / Corrections fonctionnelles : lecture Live continue, contrôles adaptés au direct, favoris, recherche, erreurs de connexion, plein écran, décodeurs, catégories arabes, bande-annonce."
+  "versionCode": 12,
+  "versionName": "1.11",
+  "apkUrl": "https://github.com/zwettounzi-collab/ebo-player-updates/releases/download/v1.11/EBO-PLAYER-1.11.apk",
+  "notes": "تحسينات الأداء: فلترة وترتيب القوائم داخل ذاكرة Compose بدل إعادة الحساب عند كل تحديث، عدّادات التصنيفات بحساب واحد، مفاتيح هوية ثابتة لعناصر القوائم والشبكات، إيقاف مؤقت للبث المباشر عند التصفح خارج قسم القنوات مع استئناف فوري، فحص التحديث الصامت بعد أول تحميل للمحتوى، وإزالة تكرار المعرفات الواردة من السيرفر. / Optimisations de performance : filtrage et tri mis en cache, compteurs de catégories calculés une seule fois, clés d'identité stables, pause du flux Live hors section Live, contrôle de mise à jour après le premier chargement, dédoublonnage des identifiants serveur."
 }
